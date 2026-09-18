@@ -23,7 +23,7 @@ const profile = ref({
     </div>
 
     <!-- Link List -->
-    <div class="flex w-full mx-w-md flex-col gap-4">
+    <div class="flex w-full max-w-md flex-col gap-4">
       <LinkCard v-for="x of [1, 2, 3]" :key="x" />
     </div>
 
