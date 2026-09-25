@@ -26,7 +26,7 @@
       {
         id: 3,
         title: 'Chip In Project',
-        url: 'https://267a6151.expenses-html-bnj.pages.dev/',
+        url: 'https://expense-splitter-vue.cmunoz7.workers.dev',
         icon: 'money',
         description: 'Front-end Project to split expenses',
       },
