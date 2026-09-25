@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/prettierrc",
-  "printWidth": 100,
+  "printWidth": 80,
   "tabWidth": 2,
   "useTabs": false,
   "semi": false,
@@ -9,7 +9,7 @@
   "bracketSpacing": true,
   "bracketSameLine": false,
   "arrowParens": "always",
-  "vueIndentScriptAndStyle": false,
+  "vueIndentScriptAndStyle": true,
   "singleAttributePerLine": true,
   "plugins": ["prettier-plugin-tailwindcss"],
   "tailwindStylesheet": "./src/assets/style.css"
